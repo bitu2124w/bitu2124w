@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bitu2124w
+- 👋 Hi, I’m Ashish Pradhan
 - 👀 I’m interested in competitive-programming
 - 🌱 I’m currently learning backend
 - 📫 How to reach me pradhan.ashish9000@gmail.com
